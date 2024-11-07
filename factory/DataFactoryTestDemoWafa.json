@@ -1,0 +1,9 @@
+{
+	"name": "DataFactoryTestDemoWafa",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e1e23a40-c0d1-4ae0-b630-f36eca5edee6",
+		"tenantId": "398b91ff-8fd4-40d2-bccf-df3ccbb12813"
+	}
+}
